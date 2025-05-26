@@ -1,5 +1,17 @@
 <h1 align="center">Desktop Google Sheets Automation Suite</h1>
 
+## Project Overview:
+
+This project delivers a flexible desktop automation bot integrated with Google Sheets—designed to streamline repetitive desktop tasks and sync data in real time with online spreadsheets. Whether it’s automating software interactions, keyboard inputs, or extracting data from applications, the bot helps non-technical users get more done with less manual effort.
+
+The system is perfect for power users, admin staff, or businesses managing bulk data entry, report generation, or CRM workflows—all without having to touch the keyboard once things are set up.
+
+
+## Core Features:
+- **Hybrid Automation Stack:** Seamlessly integrates desktop automation tools (like AutoHotKey, PyAutoGUI, or UI.Vision) with live Google Sheets API connections.
+- **Non-Intrusive Workflow Support:** Works in the background with minimal resource usage, mimicking real user behavior to avoid system interference or crashes.
+- **Customizable Logic Flows:** Task flows can be modified with simple config files or linked with Google Sheets to define conditions and actions dynamically.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,18 +74,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-
-This project delivers a flexible desktop automation bot integrated with Google Sheets—designed to streamline repetitive desktop tasks and sync data in real time with online spreadsheets. Whether it’s automating software interactions, keyboard inputs, or extracting data from applications, the bot helps non-technical users get more done with less manual effort.
-
-The system is perfect for power users, admin staff, or businesses managing bulk data entry, report generation, or CRM workflows—all without having to touch the keyboard once things are set up.
-
-
-## Core Strengths:
-- **Hybrid Automation Stack:** Seamlessly integrates desktop automation tools (like AutoHotKey, PyAutoGUI, or UI.Vision) with live Google Sheets API connections.
-- **Non-Intrusive Workflow Support:** Works in the background with minimal resource usage, mimicking real user behavior to avoid system interference or crashes.
-- **Customizable Logic Flows:** Task flows can be modified with simple config files or linked with Google Sheets to define conditions and actions dynamically.
 
 ## Features List:
 
